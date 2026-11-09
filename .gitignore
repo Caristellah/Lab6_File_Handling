@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/
+.venv/
+weblog.csv
+user_behavior_dataset.csv
+Global_Cybersecurity_Threats_2015-2024.csv

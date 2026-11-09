@@ -1,0 +1,20 @@
+{
+    "records_processed": 1002,
+    "invalid_records_skipped": 0,
+    "target_status_class": "4xx",
+    "records_in_target_class": 5,
+    "count_per_status_code": {
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET /robots.txt HTTP/1.1",
+            "count": 4
+        },
+        {
+            "url": "GET /favicon.ico HTTP/1.1",
+            "count": 1
+        }
+    ],
+    "filtered_csv_file": "filtered_logs.csv"
+}

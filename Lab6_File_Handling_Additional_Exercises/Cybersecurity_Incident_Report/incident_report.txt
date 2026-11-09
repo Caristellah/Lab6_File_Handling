@@ -1,0 +1,36 @@
+CYBERSECURITY INCIDENT REPORT
+============================================================
+Target year               : 2017
+Total records in dataset  : 3000
+Incidents in target year  : 319
+
+INCIDENT COUNT PER ATTACK TYPE
+------------------------------------------------------------
+  DDoS                           58
+  Malware                        46
+  Man-in-the-Middle              58
+  Phishing                       64
+  Ransomware                     44
+  SQL Injection                  49
+
+FINANCIAL LOSSES (USD millions)
+------------------------------------------------------------
+  Total loss               : 16261.68
+  Average loss             : 50.98
+  Invalid values skipped   : 0
+
+FIVE COSTLIEST INCIDENTS
+------------------------------------------------------------
+  1. SQL Injection | Australia | IT | $99.99 million
+  2. Malware | Brazil | Banking | $99.22 million
+  3. SQL Injection | UK | Government | $98.75 million
+  4. DDoS | USA | Government | $98.73 million
+  5. DDoS | Germany | Education | $98.61 million
+
+OUTPUT FILES
+------------------------------------------------------------
+  filtered_incidents.csv
+  incident_summary.json
+  incident_summary_backup.json
+  top5_costliest_incidents.json
+  Backup verification      : PASSED

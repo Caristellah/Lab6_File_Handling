@@ -1,0 +1,320 @@
+Country,Year,Attack Type,Target Industry,Financial Loss (in Million $),Number of Affected Users,Attack Source,Security Vulnerability Type,Defense Mechanism Used,Incident Resolution Time (in Hours)
+India,2017,Man-in-the-Middle,IT,38.65,605895,Hacker Group,Weak Passwords,VPN,20
+Germany,2017,Man-in-the-Middle,Retail,98.24,285201,Unknown,Social Engineering,Antivirus,25
+Russia,2017,Man-in-the-Middle,Healthcare,13.04,850158,Hacker Group,Unpatched Software,AI-based Detection,67
+India,2017,DDoS,Government,76.71,246205,Nation-state,Unpatched Software,Firewall,30
+USA,2017,DDoS,IT,74.12,403108,Hacker Group,Zero-day,VPN,64
+Japan,2017,Phishing,Telecommunications,75.84,383395,Hacker Group,Zero-day,VPN,31
+Russia,2017,Man-in-the-Middle,Education,83.43,313631,Nation-state,Weak Passwords,Antivirus,16
+France,2017,Phishing,Banking,17.88,16585,Hacker Group,Unpatched Software,Encryption,12
+Australia,2017,SQL Injection,Healthcare,68.91,634048,Hacker Group,Unpatched Software,Firewall,66
+UK,2017,SQL Injection,IT,53.39,576110,Insider,Unpatched Software,Antivirus,37
+UK,2017,Man-in-the-Middle,Government,48.9,177154,Unknown,Zero-day,Antivirus,68
+France,2017,SQL Injection,Healthcare,60.77,212177,Hacker Group,Social Engineering,Encryption,2
+Japan,2017,SQL Injection,Healthcare,21.66,277555,Unknown,Social Engineering,AI-based Detection,45
+UK,2017,DDoS,IT,9.01,617543,Unknown,Zero-day,Antivirus,43
+USA,2017,SQL Injection,Banking,9.08,895507,Unknown,Social Engineering,AI-based Detection,52
+Australia,2017,Malware,Healthcare,77.32,563706,Nation-state,Unpatched Software,AI-based Detection,35
+Australia,2017,Man-in-the-Middle,Telecommunications,79.72,799971,Insider,Zero-day,Firewall,63
+India,2017,Man-in-the-Middle,Government,69.69,713419,Hacker Group,Unpatched Software,AI-based Detection,70
+UK,2017,Phishing,Telecommunications,27.08,416833,Insider,Social Engineering,VPN,9
+Brazil,2017,Malware,Banking,99.22,660182,Insider,Weak Passwords,AI-based Detection,21
+Japan,2017,Phishing,IT,65.62,286208,Hacker Group,Zero-day,Firewall,57
+USA,2017,Malware,IT,75.53,992377,Nation-state,Unpatched Software,Antivirus,33
+Japan,2017,Man-in-the-Middle,Retail,74.12,559889,Nation-state,Zero-day,VPN,10
+France,2017,Ransomware,Telecommunications,66.36,180698,Hacker Group,Zero-day,Encryption,53
+Germany,2017,Malware,Healthcare,8.53,676384,Unknown,Social Engineering,VPN,44
+Russia,2017,Phishing,IT,89.22,791350,Nation-state,Social Engineering,Antivirus,32
+India,2017,Phishing,Retail,36.78,620056,Nation-state,Weak Passwords,Firewall,14
+Germany,2017,Phishing,Retail,93.6,908249,Nation-state,Zero-day,AI-based Detection,53
+Japan,2017,Phishing,Healthcare,47.39,470895,Nation-state,Social Engineering,Encryption,63
+France,2017,Malware,Education,3.21,342049,Nation-state,Unpatched Software,AI-based Detection,31
+France,2017,DDoS,Telecommunications,79.93,305905,Unknown,Unpatched Software,Encryption,44
+UK,2017,SQL Injection,Banking,73.88,8385,Nation-state,Social Engineering,AI-based Detection,69
+Russia,2017,Malware,Education,63.33,185208,Unknown,Zero-day,Firewall,3
+China,2017,Malware,IT,18.17,346390,Hacker Group,Weak Passwords,Firewall,36
+UK,2017,DDoS,Government,15.63,663812,Nation-state,Zero-day,Antivirus,57
+Germany,2017,DDoS,Telecommunications,15.01,406483,Insider,Weak Passwords,Antivirus,62
+Brazil,2017,Ransomware,IT,9.43,493087,Hacker Group,Unpatched Software,Encryption,44
+India,2017,Malware,Telecommunications,7.44,552358,Nation-state,Weak Passwords,AI-based Detection,42
+UK,2017,Phishing,Banking,52.31,259706,Hacker Group,Social Engineering,Antivirus,2
+France,2017,DDoS,IT,20.44,618269,Nation-state,Weak Passwords,VPN,48
+UK,2017,DDoS,Healthcare,54.83,966668,Hacker Group,Weak Passwords,AI-based Detection,15
+Brazil,2017,Malware,IT,9.59,912731,Nation-state,Zero-day,Firewall,4
+USA,2017,Malware,Telecommunications,81.19,362085,Insider,Weak Passwords,VPN,5
+Germany,2017,Man-in-the-Middle,Retail,73.98,609952,Hacker Group,Unpatched Software,VPN,7
+Brazil,2017,Phishing,Healthcare,68.99,526227,Hacker Group,Weak Passwords,VPN,62
+Japan,2017,Man-in-the-Middle,Banking,79.68,712646,Nation-state,Unpatched Software,AI-based Detection,50
+Japan,2017,Man-in-the-Middle,Healthcare,11.3,64472,Insider,Social Engineering,Firewall,43
+USA,2017,Man-in-the-Middle,IT,5.21,22635,Unknown,Unpatched Software,AI-based Detection,8
+UK,2017,SQL Injection,Government,98.75,894933,Insider,Weak Passwords,Antivirus,59
+India,2017,DDoS,Government,75.52,352250,Insider,Zero-day,VPN,39
+Russia,2017,Ransomware,Education,88.9,444399,Insider,Zero-day,Encryption,38
+India,2017,DDoS,IT,70.09,417831,Unknown,Unpatched Software,Encryption,36
+UK,2017,Ransomware,Retail,47.91,153257,Insider,Zero-day,Encryption,59
+Russia,2017,Phishing,Retail,20.58,768022,Unknown,Zero-day,VPN,64
+France,2017,SQL Injection,Healthcare,83.73,728486,Nation-state,Social Engineering,Encryption,61
+USA,2017,Man-in-the-Middle,IT,30.4,568560,Hacker Group,Zero-day,AI-based Detection,49
+Brazil,2017,Man-in-the-Middle,IT,71.06,871891,Unknown,Social Engineering,Antivirus,52
+Japan,2017,SQL Injection,Healthcare,7.31,191328,Insider,Weak Passwords,Encryption,51
+USA,2017,Ransomware,Banking,42.19,157313,Hacker Group,Unpatched Software,Antivirus,47
+USA,2017,SQL Injection,Banking,39.59,910393,Unknown,Weak Passwords,Antivirus,52
+India,2017,Ransomware,Retail,80.93,837506,Nation-state,Zero-day,Antivirus,8
+Brazil,2017,SQL Injection,Telecommunications,24.05,446378,Insider,Unpatched Software,Antivirus,59
+France,2017,SQL Injection,Education,14.54,171095,Hacker Group,Zero-day,AI-based Detection,63
+UK,2017,Man-in-the-Middle,Education,30.44,996762,Hacker Group,Social Engineering,AI-based Detection,27
+Japan,2017,Phishing,IT,5.14,319868,Hacker Group,Unpatched Software,VPN,52
+India,2017,Ransomware,Retail,69.91,340928,Unknown,Social Engineering,Antivirus,61
+Brazil,2017,DDoS,IT,5.88,231114,Insider,Weak Passwords,AI-based Detection,37
+India,2017,Ransomware,Banking,9.81,489620,Unknown,Unpatched Software,VPN,43
+Germany,2017,Ransomware,IT,33.24,550719,Hacker Group,Zero-day,AI-based Detection,60
+Germany,2017,Malware,Telecommunications,94.87,324790,Insider,Zero-day,VPN,42
+UK,2017,SQL Injection,Government,82.03,994787,Nation-state,Unpatched Software,Encryption,56
+Australia,2017,Phishing,Retail,95.2,715732,Unknown,Weak Passwords,Antivirus,11
+France,2017,SQL Injection,Healthcare,27.42,94235,Insider,Social Engineering,Antivirus,29
+Russia,2017,Ransomware,Telecommunications,65.18,329972,Nation-state,Unpatched Software,Firewall,48
+China,2017,Ransomware,Education,25.73,639190,Insider,Social Engineering,Encryption,33
+Brazil,2017,Man-in-the-Middle,Telecommunications,43.71,57237,Unknown,Unpatched Software,Firewall,52
+China,2017,Phishing,IT,71.4,698847,Insider,Zero-day,AI-based Detection,17
+India,2017,SQL Injection,IT,78.94,858565,Unknown,Weak Passwords,Encryption,29
+Japan,2017,SQL Injection,IT,33.15,44750,Unknown,Unpatched Software,Firewall,22
+USA,2017,Phishing,Government,55.34,785099,Insider,Social Engineering,Encryption,29
+UK,2017,Man-in-the-Middle,Telecommunications,43.82,213979,Hacker Group,Unpatched Software,Firewall,10
+France,2017,Phishing,IT,55.9,309259,Insider,Zero-day,AI-based Detection,3
+India,2017,Phishing,Retail,97.87,113745,Unknown,Unpatched Software,Encryption,2
+USA,2017,Phishing,Healthcare,52.7,281182,Nation-state,Zero-day,Encryption,27
+Australia,2017,Ransomware,Education,66.56,95750,Nation-state,Zero-day,Antivirus,44
+Russia,2017,Man-in-the-Middle,IT,14.74,561615,Hacker Group,Weak Passwords,Antivirus,29
+Brazil,2017,Man-in-the-Middle,IT,56.83,171305,Unknown,Unpatched Software,Firewall,54
+USA,2017,SQL Injection,Healthcare,51.26,28682,Hacker Group,Zero-day,VPN,44
+USA,2017,Man-in-the-Middle,Retail,74.57,502149,Hacker Group,Weak Passwords,AI-based Detection,29
+Brazil,2017,SQL Injection,Government,40.66,651335,Insider,Weak Passwords,Encryption,21
+Australia,2017,DDoS,Banking,62.81,810106,Hacker Group,Weak Passwords,Encryption,66
+France,2017,Man-in-the-Middle,Education,14.99,942088,Insider,Zero-day,AI-based Detection,46
+India,2017,DDoS,Education,83.49,79933,Hacker Group,Zero-day,AI-based Detection,23
+Japan,2017,SQL Injection,Banking,66.81,966993,Hacker Group,Social Engineering,VPN,64
+USA,2017,Phishing,Banking,96.27,637264,Hacker Group,Unpatched Software,AI-based Detection,11
+UK,2017,Malware,Education,29.47,85644,Hacker Group,Social Engineering,AI-based Detection,3
+Germany,2017,Phishing,Healthcare,53.57,287762,Insider,Weak Passwords,Encryption,13
+China,2017,Phishing,Retail,45.83,395251,Unknown,Unpatched Software,Encryption,33
+Australia,2017,Phishing,Healthcare,39.3,290846,Unknown,Weak Passwords,Firewall,3
+France,2017,DDoS,Government,86.82,99728,Nation-state,Unpatched Software,VPN,44
+USA,2017,Malware,Education,13.14,681956,Nation-state,Social Engineering,Antivirus,35
+France,2017,Phishing,Retail,90.69,275185,Nation-state,Zero-day,Encryption,20
+Russia,2017,Phishing,Banking,94.15,963192,Hacker Group,Weak Passwords,VPN,7
+Australia,2017,SQL Injection,IT,5.05,823606,Insider,Weak Passwords,Encryption,25
+Australia,2017,Phishing,Banking,90.5,42278,Insider,Weak Passwords,AI-based Detection,45
+India,2017,Ransomware,Education,98.11,677198,Unknown,Social Engineering,VPN,28
+Australia,2017,Man-in-the-Middle,Banking,54.38,100855,Unknown,Social Engineering,VPN,2
+India,2017,DDoS,Retail,82.17,593329,Hacker Group,Unpatched Software,AI-based Detection,62
+Japan,2017,Ransomware,Banking,50.75,53111,Hacker Group,Social Engineering,Antivirus,15
+Australia,2017,Phishing,Retail,14.88,69641,Hacker Group,Unpatched Software,Firewall,54
+UK,2017,Man-in-the-Middle,Government,79.27,923309,Hacker Group,Unpatched Software,Firewall,29
+Russia,2017,Phishing,Banking,3.2,982243,Insider,Zero-day,Encryption,6
+Brazil,2017,Ransomware,Education,80.5,279808,Insider,Social Engineering,Antivirus,60
+France,2017,DDoS,Healthcare,39.49,195459,Hacker Group,Weak Passwords,Encryption,14
+UK,2017,Malware,Government,66.25,726887,Hacker Group,Social Engineering,Firewall,13
+Germany,2017,Malware,Banking,97.68,906914,Hacker Group,Zero-day,AI-based Detection,15
+Japan,2017,Ransomware,Retail,59.13,747705,Insider,Unpatched Software,VPN,47
+Australia,2017,Man-in-the-Middle,IT,30.51,428352,Hacker Group,Unpatched Software,Firewall,41
+Australia,2017,Man-in-the-Middle,Telecommunications,35.27,765929,Nation-state,Weak Passwords,Firewall,16
+Russia,2017,Man-in-the-Middle,Retail,17.22,242574,Nation-state,Social Engineering,Encryption,59
+Germany,2017,DDoS,Healthcare,72.05,263506,Insider,Zero-day,Encryption,49
+Brazil,2017,DDoS,Education,41.63,249211,Insider,Zero-day,AI-based Detection,59
+Brazil,2017,Phishing,Banking,9.25,437974,Hacker Group,Zero-day,Encryption,20
+France,2017,SQL Injection,Healthcare,18.75,436009,Nation-state,Social Engineering,AI-based Detection,44
+USA,2017,Ransomware,Education,12.59,820632,Unknown,Social Engineering,AI-based Detection,65
+Brazil,2017,SQL Injection,Banking,66.78,698892,Unknown,Zero-day,AI-based Detection,24
+China,2017,Phishing,Healthcare,92.64,911233,Hacker Group,Weak Passwords,AI-based Detection,18
+Brazil,2017,DDoS,Retail,81.63,140371,Hacker Group,Zero-day,Encryption,13
+Germany,2017,Phishing,Banking,69.85,253058,Hacker Group,Social Engineering,Encryption,44
+France,2017,Ransomware,IT,93.15,372975,Hacker Group,Weak Passwords,Firewall,64
+India,2017,SQL Injection,Government,20.21,421023,Insider,Unpatched Software,Encryption,72
+Germany,2017,Man-in-the-Middle,Government,56.15,487668,Hacker Group,Unpatched Software,AI-based Detection,72
+France,2017,Phishing,Government,59.64,551515,Unknown,Zero-day,AI-based Detection,37
+Russia,2017,Phishing,IT,53.07,388154,Nation-state,Zero-day,AI-based Detection,29
+Japan,2017,DDoS,Education,7.84,165722,Unknown,Unpatched Software,Encryption,23
+Germany,2017,Man-in-the-Middle,Banking,88.03,587213,Unknown,Weak Passwords,AI-based Detection,32
+Germany,2017,SQL Injection,IT,33.79,772541,Nation-state,Unpatched Software,Antivirus,46
+France,2017,Phishing,Banking,15.14,276541,Hacker Group,Social Engineering,AI-based Detection,16
+Russia,2017,Malware,IT,20.85,484009,Insider,Weak Passwords,Firewall,41
+Australia,2017,Phishing,Retail,56.1,450205,Unknown,Zero-day,Firewall,32
+Australia,2017,SQL Injection,Banking,7.21,526324,Insider,Unpatched Software,VPN,39
+France,2017,DDoS,Telecommunications,13.31,381948,Unknown,Weak Passwords,AI-based Detection,46
+USA,2017,Phishing,IT,48.96,480386,Nation-state,Zero-day,Antivirus,18
+India,2017,Malware,IT,22.04,210495,Insider,Weak Passwords,Firewall,18
+Germany,2017,Ransomware,Retail,68.73,509742,Nation-state,Zero-day,Antivirus,43
+Germany,2017,Malware,Healthcare,6.58,592988,Hacker Group,Unpatched Software,VPN,43
+Japan,2017,Malware,Retail,74.01,750473,Unknown,Zero-day,Antivirus,41
+Germany,2017,Ransomware,Retail,91.67,80135,Hacker Group,Social Engineering,AI-based Detection,35
+Japan,2017,SQL Injection,Government,35.88,221051,Insider,Zero-day,Encryption,18
+Russia,2017,SQL Injection,Banking,33.84,442940,Nation-state,Unpatched Software,AI-based Detection,7
+Russia,2017,Ransomware,Education,95.08,679860,Unknown,Social Engineering,Encryption,66
+Germany,2017,Ransomware,Healthcare,32.0,175755,Insider,Weak Passwords,Firewall,30
+China,2017,DDoS,Government,57.34,171772,Nation-state,Social Engineering,Firewall,8
+Japan,2017,Phishing,IT,49.12,845169,Nation-state,Social Engineering,VPN,1
+France,2017,Man-in-the-Middle,Education,76.35,517640,Hacker Group,Unpatched Software,Firewall,4
+France,2017,SQL Injection,Healthcare,96.08,592364,Insider,Weak Passwords,Antivirus,21
+Brazil,2017,Man-in-the-Middle,Retail,17.99,506551,Unknown,Unpatched Software,Antivirus,53
+Japan,2017,DDoS,IT,86.89,703035,Unknown,Unpatched Software,Firewall,15
+France,2017,Man-in-the-Middle,Education,49.94,640572,Hacker Group,Social Engineering,Firewall,51
+India,2017,Ransomware,Government,89.47,201732,Unknown,Zero-day,Antivirus,39
+USA,2017,DDoS,Healthcare,64.99,632431,Insider,Zero-day,VPN,55
+Japan,2017,Phishing,Government,89.97,141115,Hacker Group,Zero-day,AI-based Detection,9
+Brazil,2017,SQL Injection,Telecommunications,4.35,809757,Nation-state,Social Engineering,VPN,61
+UK,2017,Malware,Healthcare,24.06,612319,Unknown,Social Engineering,Antivirus,47
+Japan,2017,DDoS,Healthcare,5.5,751586,Nation-state,Social Engineering,AI-based Detection,24
+China,2017,Ransomware,Education,64.93,159061,Insider,Weak Passwords,Firewall,12
+USA,2017,Phishing,IT,7.95,362478,Hacker Group,Zero-day,Encryption,67
+China,2017,DDoS,Healthcare,96.49,644339,Insider,Unpatched Software,Antivirus,71
+Brazil,2017,DDoS,Healthcare,62.74,460264,Unknown,Social Engineering,Firewall,9
+USA,2017,DDoS,Government,96.89,794147,Unknown,Unpatched Software,Antivirus,4
+Japan,2017,SQL Injection,Education,11.49,364107,Hacker Group,Social Engineering,AI-based Detection,28
+France,2017,Malware,Telecommunications,96.63,389525,Unknown,Zero-day,Antivirus,32
+India,2017,Man-in-the-Middle,Healthcare,91.4,621971,Nation-state,Weak Passwords,AI-based Detection,49
+Russia,2017,SQL Injection,Healthcare,67.13,198285,Nation-state,Unpatched Software,Encryption,56
+Russia,2017,Man-in-the-Middle,IT,55.23,12439,Nation-state,Weak Passwords,Firewall,20
+USA,2017,Phishing,Telecommunications,19.6,889404,Unknown,Weak Passwords,Firewall,60
+USA,2017,Man-in-the-Middle,Retail,58.98,566242,Nation-state,Social Engineering,VPN,63
+Japan,2017,Phishing,Telecommunications,89.85,44385,Hacker Group,Weak Passwords,AI-based Detection,18
+Russia,2017,Malware,Government,2.65,500857,Hacker Group,Zero-day,VPN,35
+India,2017,Ransomware,Government,38.87,968822,Nation-state,Weak Passwords,Antivirus,25
+China,2017,Phishing,Healthcare,70.4,651809,Unknown,Unpatched Software,Firewall,17
+Japan,2017,Malware,Education,26.24,945147,Insider,Zero-day,AI-based Detection,20
+Australia,2017,Malware,Banking,92.65,817255,Hacker Group,Weak Passwords,Antivirus,62
+Brazil,2017,Malware,Telecommunications,6.09,436100,Unknown,Zero-day,Encryption,12
+Australia,2017,SQL Injection,IT,99.99,672966,Hacker Group,Zero-day,Firewall,13
+Germany,2017,Ransomware,Government,80.7,107009,Nation-state,Social Engineering,Encryption,67
+USA,2017,Phishing,Retail,15.24,599197,Unknown,Zero-day,AI-based Detection,8
+Brazil,2017,Man-in-the-Middle,Healthcare,96.36,596078,Hacker Group,Weak Passwords,Encryption,10
+Australia,2017,DDoS,Government,82.39,646824,Hacker Group,Zero-day,AI-based Detection,2
+Germany,2017,Malware,Healthcare,49.09,397361,Hacker Group,Weak Passwords,Encryption,57
+Australia,2017,Man-in-the-Middle,IT,45.5,889521,Nation-state,Weak Passwords,Encryption,51
+China,2017,Malware,Education,47.46,783239,Unknown,Social Engineering,VPN,41
+France,2017,Ransomware,Education,19.84,832471,Insider,Social Engineering,Firewall,54
+France,2017,Phishing,Retail,43.2,377252,Nation-state,Unpatched Software,Encryption,8
+Brazil,2017,Phishing,IT,26.62,955790,Nation-state,Zero-day,Encryption,44
+France,2017,SQL Injection,Healthcare,42.8,683189,Unknown,Zero-day,VPN,19
+Australia,2017,Malware,IT,33.34,673439,Insider,Weak Passwords,Firewall,13
+UK,2017,Man-in-the-Middle,Education,13.06,799627,Hacker Group,Weak Passwords,Antivirus,36
+Germany,2017,Ransomware,Education,76.96,950276,Hacker Group,Unpatched Software,Firewall,31
+UK,2017,Man-in-the-Middle,Telecommunications,89.07,932075,Unknown,Unpatched Software,Firewall,72
+USA,2017,DDoS,Telecommunications,51.69,156213,Nation-state,Weak Passwords,VPN,9
+France,2017,DDoS,Healthcare,6.72,782873,Hacker Group,Zero-day,Encryption,4
+Germany,2017,Ransomware,Education,10.32,195872,Hacker Group,Social Engineering,Antivirus,22
+Brazil,2017,Malware,Telecommunications,73.71,377769,Hacker Group,Zero-day,Firewall,38
+UK,2017,DDoS,Government,65.57,478549,Hacker Group,Weak Passwords,Antivirus,37
+China,2017,Man-in-the-Middle,Retail,30.38,29840,Hacker Group,Weak Passwords,AI-based Detection,63
+USA,2017,DDoS,Banking,98.07,276199,Insider,Weak Passwords,Antivirus,28
+Germany,2017,SQL Injection,Retail,88.18,3200,Insider,Weak Passwords,AI-based Detection,43
+China,2017,SQL Injection,Retail,61.83,129677,Hacker Group,Unpatched Software,Firewall,60
+China,2017,Man-in-the-Middle,Government,49.37,613786,Nation-state,Unpatched Software,Antivirus,24
+Russia,2017,Ransomware,Healthcare,16.77,924837,Hacker Group,Unpatched Software,Firewall,62
+Germany,2017,Phishing,Banking,10.56,556014,Nation-state,Unpatched Software,Encryption,11
+India,2017,Man-in-the-Middle,IT,68.68,725608,Insider,Zero-day,AI-based Detection,15
+India,2017,SQL Injection,Government,40.98,402855,Insider,Social Engineering,AI-based Detection,26
+USA,2017,DDoS,Retail,70.37,513625,Nation-state,Weak Passwords,VPN,37
+Japan,2017,Phishing,IT,73.85,402903,Insider,Zero-day,Encryption,55
+Brazil,2017,Phishing,Government,87.27,767721,Unknown,Weak Passwords,Encryption,9
+Japan,2017,SQL Injection,Healthcare,54.26,839368,Insider,Unpatched Software,Antivirus,40
+Australia,2017,Phishing,Education,82.47,317988,Nation-state,Zero-day,Encryption,2
+Japan,2017,Phishing,Education,88.43,954423,Unknown,Unpatched Software,Firewall,6
+Brazil,2017,DDoS,Government,58.67,12372,Nation-state,Social Engineering,Encryption,29
+Japan,2017,Phishing,IT,6.49,195044,Unknown,Unpatched Software,AI-based Detection,20
+Australia,2017,Man-in-the-Middle,Healthcare,93.91,776634,Unknown,Weak Passwords,Encryption,33
+USA,2017,Man-in-the-Middle,Healthcare,54.54,892665,Insider,Unpatched Software,VPN,31
+India,2017,Phishing,IT,93.62,899005,Insider,Weak Passwords,AI-based Detection,61
+Japan,2017,Man-in-the-Middle,Telecommunications,21.8,610106,Unknown,Social Engineering,Encryption,39
+USA,2017,Ransomware,Government,89.9,828963,Unknown,Zero-day,Firewall,2
+Japan,2017,Malware,Banking,9.76,122728,Unknown,Zero-day,AI-based Detection,7
+China,2017,Malware,IT,86.98,510454,Nation-state,Zero-day,VPN,18
+Japan,2017,Man-in-the-Middle,Healthcare,16.71,393738,Nation-state,Zero-day,Antivirus,69
+Brazil,2017,DDoS,Government,18.69,131940,Nation-state,Weak Passwords,Antivirus,34
+Germany,2017,DDoS,Telecommunications,84.38,724629,Insider,Unpatched Software,AI-based Detection,18
+Germany,2017,SQL Injection,Healthcare,12.56,135042,Nation-state,Weak Passwords,Antivirus,13
+Japan,2017,DDoS,IT,31.5,951607,Unknown,Zero-day,AI-based Detection,58
+Japan,2017,DDoS,Healthcare,54.41,344772,Hacker Group,Unpatched Software,AI-based Detection,5
+Japan,2017,DDoS,Telecommunications,73.27,368351,Nation-state,Zero-day,Antivirus,48
+France,2017,Phishing,Banking,77.41,654122,Nation-state,Social Engineering,AI-based Detection,68
+India,2017,Man-in-the-Middle,Telecommunications,32.4,437554,Insider,Weak Passwords,Firewall,19
+Germany,2017,Malware,Government,67.79,239402,Hacker Group,Zero-day,VPN,17
+France,2017,Man-in-the-Middle,Healthcare,34.43,927694,Insider,Social Engineering,VPN,43
+Japan,2017,SQL Injection,Education,36.37,161579,Nation-state,Zero-day,Firewall,15
+Brazil,2017,DDoS,Education,29.76,913276,Insider,Social Engineering,Encryption,57
+China,2017,DDoS,Education,56.73,244753,Insider,Zero-day,VPN,45
+Brazil,2017,Man-in-the-Middle,Government,68.03,403770,Hacker Group,Weak Passwords,Encryption,22
+USA,2017,SQL Injection,Government,60.66,5346,Unknown,Zero-day,Antivirus,69
+China,2017,DDoS,Retail,19.36,4814,Unknown,Social Engineering,AI-based Detection,42
+Australia,2017,Malware,Retail,9.25,692167,Unknown,Weak Passwords,Encryption,70
+Japan,2017,Ransomware,Retail,49.75,163062,Unknown,Unpatched Software,AI-based Detection,43
+Australia,2017,Malware,Banking,25.76,801821,Unknown,Weak Passwords,AI-based Detection,18
+UK,2017,Man-in-the-Middle,Telecommunications,60.01,740448,Hacker Group,Weak Passwords,Encryption,26
+India,2017,DDoS,Banking,45.98,538245,Hacker Group,Weak Passwords,AI-based Detection,18
+Japan,2017,SQL Injection,Banking,18.01,295917,Unknown,Weak Passwords,VPN,57
+Brazil,2017,Phishing,Retail,3.18,520654,Nation-state,Social Engineering,VPN,53
+China,2017,Man-in-the-Middle,Banking,62.39,855974,Unknown,Social Engineering,VPN,44
+France,2017,Malware,Banking,40.87,719537,Nation-state,Zero-day,AI-based Detection,23
+Brazil,2017,DDoS,Telecommunications,34.79,724790,Hacker Group,Unpatched Software,Firewall,64
+France,2017,Ransomware,Retail,48.93,886212,Unknown,Weak Passwords,Encryption,67
+Germany,2017,Malware,Healthcare,1.68,859708,Nation-state,Weak Passwords,Encryption,10
+Brazil,2017,DDoS,IT,72.48,860625,Unknown,Zero-day,Firewall,4
+Australia,2017,Man-in-the-Middle,Retail,47.97,36780,Insider,Unpatched Software,AI-based Detection,64
+USA,2017,Malware,Government,56.74,976007,Insider,Social Engineering,Encryption,59
+Brazil,2017,Ransomware,Healthcare,54.78,469735,Nation-state,Zero-day,Encryption,57
+China,2017,Man-in-the-Middle,Banking,47.52,83617,Insider,Unpatched Software,AI-based Detection,64
+Russia,2017,Phishing,Telecommunications,2.22,620350,Hacker Group,Zero-day,Firewall,45
+India,2017,Malware,Government,61.02,650042,Nation-state,Unpatched Software,Antivirus,48
+UK,2017,Malware,Banking,11.25,636273,Insider,Zero-day,Antivirus,30
+Russia,2017,Man-in-the-Middle,Banking,66.53,45277,Insider,Social Engineering,Firewall,43
+Brazil,2017,Ransomware,Government,58.18,824704,Hacker Group,Zero-day,Antivirus,30
+Australia,2017,Ransomware,Government,27.38,918816,Unknown,Weak Passwords,AI-based Detection,58
+Brazil,2017,Phishing,IT,81.04,850794,Unknown,Social Engineering,Antivirus,69
+Japan,2017,DDoS,IT,27.76,824968,Insider,Weak Passwords,Encryption,15
+Russia,2017,DDoS,Education,50.42,690010,Nation-state,Weak Passwords,Firewall,18
+Brazil,2017,Ransomware,Healthcare,32.9,433987,Unknown,Zero-day,AI-based Detection,21
+UK,2017,Phishing,Banking,1.54,31262,Unknown,Social Engineering,Firewall,56
+France,2017,SQL Injection,Education,81.06,349070,Unknown,Zero-day,VPN,41
+India,2017,Phishing,IT,53.95,920801,Nation-state,Zero-day,Antivirus,52
+Russia,2017,Phishing,Education,66.25,702883,Insider,Unpatched Software,VPN,31
+USA,2017,Malware,Education,78.38,516103,Hacker Group,Unpatched Software,Firewall,62
+France,2017,DDoS,Retail,67.36,856228,Hacker Group,Zero-day,Encryption,47
+China,2017,SQL Injection,Banking,29.39,206897,Unknown,Zero-day,Encryption,18
+USA,2017,DDoS,Government,98.73,17805,Nation-state,Weak Passwords,Antivirus,31
+Russia,2017,Man-in-the-Middle,Government,80.95,827534,Hacker Group,Unpatched Software,Firewall,29
+Germany,2017,Ransomware,Telecommunications,49.56,119598,Insider,Unpatched Software,Encryption,43
+India,2017,Malware,Healthcare,66.29,430200,Unknown,Zero-day,Antivirus,48
+Brazil,2017,Man-in-the-Middle,Government,14.54,491794,Nation-state,Zero-day,Encryption,4
+Australia,2017,DDoS,Education,31.74,724207,Hacker Group,Weak Passwords,Firewall,54
+China,2017,Phishing,Government,38.87,168075,Insider,Social Engineering,AI-based Detection,52
+USA,2017,Man-in-the-Middle,Banking,59.54,839892,Nation-state,Weak Passwords,Encryption,20
+Germany,2017,DDoS,Telecommunications,40.05,27446,Insider,Social Engineering,AI-based Detection,13
+Japan,2017,Ransomware,Government,9.24,126143,Unknown,Weak Passwords,Antivirus,35
+Germany,2017,Malware,Government,63.97,590555,Nation-state,Social Engineering,AI-based Detection,27
+France,2017,Ransomware,Healthcare,88.79,332214,Nation-state,Social Engineering,Antivirus,16
+France,2017,Ransomware,IT,27.19,760590,Nation-state,Weak Passwords,Encryption,9
+USA,2017,Malware,Government,89.49,4966,Hacker Group,Social Engineering,AI-based Detection,41
+Australia,2017,DDoS,Banking,16.58,744201,Hacker Group,Zero-day,VPN,7
+Japan,2017,Phishing,Banking,61.33,762300,Nation-state,Social Engineering,VPN,20
+UK,2017,SQL Injection,Retail,47.99,914365,Insider,Weak Passwords,Firewall,52
+UK,2017,Phishing,IT,57.17,477292,Nation-state,Social Engineering,AI-based Detection,18
+China,2017,DDoS,IT,17.49,394109,Unknown,Unpatched Software,AI-based Detection,37
+UK,2017,DDoS,Education,40.18,148447,Insider,Zero-day,AI-based Detection,39
+France,2017,SQL Injection,IT,44.56,698908,Nation-state,Zero-day,Antivirus,32
+Brazil,2017,Man-in-the-Middle,Education,67.55,287646,Nation-state,Social Engineering,VPN,68
+China,2017,Phishing,Education,16.82,848597,Hacker Group,Weak Passwords,AI-based Detection,11
+France,2017,DDoS,Healthcare,5.07,65117,Unknown,Social Engineering,Firewall,3
+Russia,2017,SQL Injection,Banking,76.84,883919,Hacker Group,Social Engineering,VPN,8
+UK,2017,Ransomware,Healthcare,55.45,490818,Hacker Group,Unpatched Software,VPN,65
+France,2017,Malware,Healthcare,41.37,783899,Hacker Group,Social Engineering,AI-based Detection,29
+Germany,2017,DDoS,Education,98.61,992029,Nation-state,Unpatched Software,VPN,26
+Japan,2017,DDoS,Healthcare,90.38,316136,Hacker Group,Zero-day,VPN,22
+Japan,2017,Ransomware,Telecommunications,49.72,578125,Insider,Social Engineering,Firewall,71
+China,2017,Phishing,Banking,38.69,240400,Unknown,Weak Passwords,Encryption,10
+Russia,2017,Malware,Healthcare,42.4,71213,Nation-state,Social Engineering,Firewall,58
+Russia,2017,Ransomware,Retail,52.79,942824,Nation-state,Social Engineering,Antivirus,68
+Russia,2017,Malware,IT,68.12,627616,Insider,Zero-day,Firewall,29
+France,2017,SQL Injection,Government,36.09,696801,Insider,Zero-day,VPN,32
+France,2017,Phishing,Healthcare,4.87,388325,Nation-state,Social Engineering,AI-based Detection,39
+Germany,2017,Man-in-the-Middle,Healthcare,97.14,875912,Insider,Unpatched Software,Firewall,33
+Germany,2017,SQL Injection,Education,54.98,786577,Insider,Unpatched Software,Firewall,70
+Brazil,2017,SQL Injection,IT,32.97,734737,Nation-state,Weak Passwords,AI-based Detection,30

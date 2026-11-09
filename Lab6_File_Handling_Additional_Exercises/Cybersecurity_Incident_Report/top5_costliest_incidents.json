@@ -1,0 +1,82 @@
+[
+    {
+        "rank": 1,
+        "financial_loss_million_usd": 99.99,
+        "record": {
+            "Country": "Australia",
+            "Year": "2017",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "IT",
+            "Financial Loss (in Million $)": "99.99",
+            "Number of Affected Users": "672966",
+            "Attack Source": "Hacker Group",
+            "Security Vulnerability Type": "Zero-day",
+            "Defense Mechanism Used": "Firewall",
+            "Incident Resolution Time (in Hours)": "13"
+        }
+    },
+    {
+        "rank": 2,
+        "financial_loss_million_usd": 99.22,
+        "record": {
+            "Country": "Brazil",
+            "Year": "2017",
+            "Attack Type": "Malware",
+            "Target Industry": "Banking",
+            "Financial Loss (in Million $)": "99.22",
+            "Number of Affected Users": "660182",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "AI-based Detection",
+            "Incident Resolution Time (in Hours)": "21"
+        }
+    },
+    {
+        "rank": 3,
+        "financial_loss_million_usd": 98.75,
+        "record": {
+            "Country": "UK",
+            "Year": "2017",
+            "Attack Type": "SQL Injection",
+            "Target Industry": "Government",
+            "Financial Loss (in Million $)": "98.75",
+            "Number of Affected Users": "894933",
+            "Attack Source": "Insider",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "59"
+        }
+    },
+    {
+        "rank": 4,
+        "financial_loss_million_usd": 98.73,
+        "record": {
+            "Country": "USA",
+            "Year": "2017",
+            "Attack Type": "DDoS",
+            "Target Industry": "Government",
+            "Financial Loss (in Million $)": "98.73",
+            "Number of Affected Users": "17805",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Weak Passwords",
+            "Defense Mechanism Used": "Antivirus",
+            "Incident Resolution Time (in Hours)": "31"
+        }
+    },
+    {
+        "rank": 5,
+        "financial_loss_million_usd": 98.61,
+        "record": {
+            "Country": "Germany",
+            "Year": "2017",
+            "Attack Type": "DDoS",
+            "Target Industry": "Education",
+            "Financial Loss (in Million $)": "98.61",
+            "Number of Affected Users": "992029",
+            "Attack Source": "Nation-state",
+            "Security Vulnerability Type": "Unpatched Software",
+            "Defense Mechanism Used": "VPN",
+            "Incident Resolution Time (in Hours)": "26"
+        }
+    }
+]
