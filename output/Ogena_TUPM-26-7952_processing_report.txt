@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+----------------------------------------------
+Last Name: Ogena
+Student ID: TUPM-26-7952
+Seed Digit: 2
+ID Sum: 31
+Verification Value: 157
+Dataset Sample Size: 81
+Valid Records: 81
+Average Global Active Power: 3.917
+JSON File: Ogena_TUPM-26-7952_record.json
+Backup File: Ogena_TUPM-26-7952_record.csv

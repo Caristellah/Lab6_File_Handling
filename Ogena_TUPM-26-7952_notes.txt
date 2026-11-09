@@ -1,0 +1,5 @@
+Student: Ogena
+Student ID: TUPM-26-7952
+Seed digit: 2
+ID sum: 31
+Verification value: 157
